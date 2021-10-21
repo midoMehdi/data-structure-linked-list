@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  list.cpp
+  Génération de code en cours...
+C:\Users\elbme\OneDrive\Bureau\C++DS\ListSimple\ListSimple\list.h(326): warning C4172: retourne l'adresse d'une variable locale ou : it temporaire
+  ListSimple.vcxproj -> C:\Users\elbme\OneDrive\Bureau\C++DS\ListSimple\Debug\ListSimple.exe
